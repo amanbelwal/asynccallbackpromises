@@ -11,3 +11,5 @@ function printscreen() {
   counter = counter + 1;
 }
 setInterval(printscreen, 1000);
+
+console.log("Github commit check")
